@@ -1,0 +1,28 @@
+* {
+    margin: 0%;
+}
+
+
+.container{ background-color: rgb(255, 61, 100);padding: 15px;font-size: 18px; margin: 5px; border-radius: 10px;
+
+}
+
+h1{color: crimson;font-size: 26px; padding-top: 10px;
+}
+h2{color: crimson;}
+
+.document{
+background-color: crimson; height: 100vh;
+justify-content: center; font-family: Verdana, Geneva, Tahoma, sans-serif; color: white;
+}
+
+.card2{ background-color: rgb(255, 145, 167);border-radius: 15px;border: white 2.5px solid;
+text-align: center ; justify-content: center;
+}
+
+.card2 img{
+    width: 350px; justify-items: center;
+}
+
+
+
